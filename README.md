@@ -1,6 +1,5 @@
 # IBCt:I Believe Contract
 ##### EOS기반 dAPP
-##### Thanks Regis
 ##### TestNet
 
 >개인 프라이빗넷
